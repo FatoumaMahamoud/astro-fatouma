@@ -10,6 +10,7 @@ skills:
 - nom: Adobe Photoshop
   pourcentage: 90
 - nom: Photography
+  pourcentage: 80
 - nom: Illustrator
 - nom: "  Media"
 
