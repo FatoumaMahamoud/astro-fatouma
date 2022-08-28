@@ -12,6 +12,7 @@ skills:
 - nom: Photography
   pourcentage: 80
 - nom: Illustrator
+  pourcentage: 75
 - nom: "  Media"
 
 ---
