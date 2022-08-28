@@ -7,10 +7,11 @@ adresse: Balbala, Djibouti
 email: fatoumamoud414@gmail.com.com
 telephone: "+253 77292528"
 skills:
-- nom: "  Media"
-- nom: Illustrator
-- nom: Photography
 - nom: Adobe Photoshop
+  pourcentage: 90
+- nom: Photography
+- nom: Illustrator
+- nom: "  Media"
 
 ---
 # hello !
